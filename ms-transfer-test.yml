@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: ms-transfer
+
+server:
+  port: 9000
